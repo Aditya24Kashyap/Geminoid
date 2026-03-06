@@ -12,6 +12,9 @@
 - 🧠 Global state management via Zustand
 - ⚡ Fast development with Vite
 - 🎨 Clean, responsive design with Tailwind CSS
-
+  
+## To Do
 - work on its api part
-- add dark mode 
+- add dark mode
+- make it look professional
+- better polished ui 
