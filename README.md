@@ -17,4 +17,4 @@
 - work on its api part
 - add dark mode
 - make it look professional
-- better polished ui 
+- better polished ui and toggle dark mode
